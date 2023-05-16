@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @GeekMaster117
-- 👀 I’m interested in any project that intrests me
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate any project that intrests me
+- 👀 I’m interested in projects related to server back-end and system applications
+- 🌱 I’ve worked on apache server, django server
+- 💞️ I’m flexible and looking forward to collaborating with any kind of project
 - 📫 How to reach me saivenkat0306@gmail.com
-
-<!---
-GeekMaster117/GeekMaster117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
