@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GeekMaster117
 - 👀 I’m interested in projects related to server back-end and system applications
-- 🌱 I’ve worked on apache server, django server
+- 🌱 I had worked on apache tomcat server and django server
 - 💞️ I’m flexible and looking forward to collaborating with any kind of project
 - 📫 How to reach me saivenkat0306@gmail.com
