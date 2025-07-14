@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @GeekMaster117
-- 👀 I’m interested in projects related to server back-end and system applications
-- 🌱 I had worked on apache tomcat server and django server
-- 💞️ I’m flexible and looking forward to collaborating with any kind of project
-- 📫 How to reach me saivenkat0306@gmail.com
+- 🌱 I have worked on Self-hosted Image Storage, Neural Networks from Scratch, AI Meta OS, ASCII Game Engine, and Multiplayer Pong Game
+- 💞️ I’m flexible and looking forward to collaborating on fun and challenging projects
+- 📫 How to reach me: saivenkat0306@gmail.com
