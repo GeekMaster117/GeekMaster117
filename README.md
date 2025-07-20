@@ -38,3 +38,9 @@ Handles simple ASCII art and physics-based simulations on command prompt. It can
 
 Created an entire multiplayer game on ASCII Engine. Play with your friends on LAN.
 - https://github.com/GeekMaster117/Pong-LAN-Multiplayer
+
+## Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekMaster117&layout=compact&theme=github_dark" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/saivenkat0306?ext=heatmap" width="48%" />
+</p>
