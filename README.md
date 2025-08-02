@@ -27,9 +27,9 @@ Monitors your activity, gives suggestions based on it, and builds automations ba
 
 ---
 
-### Neural Networks from Scratch
-Recognises MNIST number dataset. Built from scratch in C++, uses adaptive momentum to train.
-- https://github.com/GeekMaster117/Neural-Network-From-Scratch
+### Neural Network Framework
+Built from scratch in C++ to build Neural Networks. Trained and tested on the MNIST digit dataset with 95% accuracy.
+- https://github.com/GeekMaster117/Neural-Network-Framework
 
 ## 🧰 Tools & Libraries
 ### ASCII Engine
