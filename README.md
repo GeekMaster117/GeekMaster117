@@ -2,23 +2,17 @@
 I have experience building Online Compilers, Self-hosted Servers, Neural Networks from Scratch, Personal AI OS, Game Engines, and Multiplayer Games.
 
 ## 🌐 Best Projects (Online & Internet-Facing)
-### Self-hosted Image Storage
-Host your own Image Storage, just deploy the container and done! No longer need to pay a monthly subscription fee to Google.
-- https://github.com/GeekMaster117/PicDrop-Frontend
-- https://github.com/GeekMaster117/PicDrop-Backend
-
-🔒 **Production Repos (Private)**
-- https://github.com/GeekMaster117/PicDrop-Frontend-Production
-- https://github.com/GeekMaster117/PicDrop-Backend-Production
-
-📩 **Want access to production code or contribute?**  
-Email me: `saivenkat0306@gmail.com`
-
----
 
 ### Online Compiler
 Host your own Java Compiler online, just deploy the webapp in your Tomcat and done! Configure your security settings, and truly own the compiler.
 - https://github.com/GeekMaster117/WorkShare
+
+---
+
+### Self-hosted Image Storage
+Host your own Image Storage, just deploy the container and done! No longer need to pay a monthly subscription fee to Google.
+- https://github.com/GeekMaster117/PicDrop-Frontend
+- https://github.com/GeekMaster117/PicDrop-Backend
 
 ## 🖥️ Best Projects (Offline / Systems-Level)
 ### Personal AI OS
