@@ -5,33 +5,33 @@ I have experience building Online Compilers, Self-hosted Servers, Neural Network
 
 ### Online Compiler
 Host your own Java Compiler online, just deploy the webapp in your Tomcat and done! Configure your security settings, and truly own the compiler.
-- https://github.com/GeekMaster117/WorkShare
+- [View Repo](https://github.com/GeekMaster117/WorkShare)
 
 ---
 
 ### Disaster Management Coordination
 Enables real-time communication between rescue workers and refugees for better coordination.
-- https://github.com/GeekMaster117/PicDrop-Frontend
-- https://github.com/GeekMaster117/PicDrop-Backend
+- [View Frontend Repo](https://github.com/GeekMaster117/Disaster-Management-Coordination-Frontend)
+- [View Backend Repo](https://github.com/GeekMaster117/Disaster-Management-Coordination-Backend)
   
 ## 🖥️ Best Projects (Offline / Systems-Level)
 ### Personal AI OS
 Monitors your activity, gives suggestions based on it, and builds automations based on suggestions. The best part, all of this is completely offline.
-- https://github.com/GeekMaster117/Personal-AI-OS
+- [View Repo](https://github.com/GeekMaster117/Personal-AI-OS)
 
 ---
 
 ### Neural Network Framework
 Built from scratch in C++ to build Neural Networks. Trained and tested on the MNIST digit dataset with 95% accuracy.
-- https://github.com/GeekMaster117/Neural-Network-Framework
+- [View Repo](https://github.com/GeekMaster117/Neural-Network-Framework)
 
 ## 🧰 Tools & Libraries
 ### ASCII Engine
 Handles simple ASCII art and physics-based simulations on command prompt. It can be used to create games or just visualisations of data. Available in both C and Java
-- https://github.com/GeekMaster117/ASCII-Engine
+- [View Repo](https://github.com/GeekMaster117/ASCII-Engine)
 
 Created an entire multiplayer game on ASCII Engine. Play with your friends on LAN.
-- https://github.com/GeekMaster117/Pong-LAN-Multiplayer
+- [View Repo](https://github.com/GeekMaster117/Pong-LAN-Multiplayer)
 
 ## Stats:
 <p align="center">
