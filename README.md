@@ -9,11 +9,11 @@ Host your own Java Compiler online, just deploy the webapp in your Tomcat and do
 
 ---
 
-### Self-hosted Image Storage
-Host your own Image Storage, just deploy the container and done! No longer need to pay a monthly subscription fee to Google.
+### Disaster Management Coordination
+Enables real-time communication between rescue workers and refugees for better coordination.
 - https://github.com/GeekMaster117/PicDrop-Frontend
 - https://github.com/GeekMaster117/PicDrop-Backend
-
+  
 ## 🖥️ Best Projects (Offline / Systems-Level)
 ### Personal AI OS
 Monitors your activity, gives suggestions based on it, and builds automations based on suggestions. The best part, all of this is completely offline.
